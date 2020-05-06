@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/terraformer-stats/static/css/main.a44733c1.chunk.css",
-    "main.js": "/terraformer-stats/static/js/main.8c715fe0.chunk.js",
-    "main.js.map": "/terraformer-stats/static/js/main.8c715fe0.chunk.js.map",
+    "main.js": "/terraformer-stats/static/js/main.34cb8aab.chunk.js",
+    "main.js.map": "/terraformer-stats/static/js/main.34cb8aab.chunk.js.map",
     "runtime-main.js": "/terraformer-stats/static/js/runtime-main.3b0ea18a.js",
     "runtime-main.js.map": "/terraformer-stats/static/js/runtime-main.3b0ea18a.js.map",
-    "static/js/2.697ec33c.chunk.js": "/terraformer-stats/static/js/2.697ec33c.chunk.js",
-    "static/js/2.697ec33c.chunk.js.map": "/terraformer-stats/static/js/2.697ec33c.chunk.js.map",
+    "static/js/2.ba8d94b0.chunk.js": "/terraformer-stats/static/js/2.ba8d94b0.chunk.js",
+    "static/js/2.ba8d94b0.chunk.js.map": "/terraformer-stats/static/js/2.ba8d94b0.chunk.js.map",
     "index.html": "/terraformer-stats/index.html",
-    "precache-manifest.8aac05e0c4efcd60bbc300fdff11d6f3.js": "/terraformer-stats/precache-manifest.8aac05e0c4efcd60bbc300fdff11d6f3.js",
+    "precache-manifest.33fb73548db5617b65d1760a45d8559c.js": "/terraformer-stats/precache-manifest.33fb73548db5617b65d1760a45d8559c.js",
     "service-worker.js": "/terraformer-stats/service-worker.js",
     "static/css/main.a44733c1.chunk.css.map": "/terraformer-stats/static/css/main.a44733c1.chunk.css.map",
-    "static/js/2.697ec33c.chunk.js.LICENSE.txt": "/terraformer-stats/static/js/2.697ec33c.chunk.js.LICENSE.txt"
+    "static/js/2.ba8d94b0.chunk.js.LICENSE.txt": "/terraformer-stats/static/js/2.ba8d94b0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3b0ea18a.js",
-    "static/js/2.697ec33c.chunk.js",
+    "static/js/2.ba8d94b0.chunk.js",
     "static/css/main.a44733c1.chunk.css",
-    "static/js/main.8c715fe0.chunk.js"
+    "static/js/main.34cb8aab.chunk.js"
   ]
 }
