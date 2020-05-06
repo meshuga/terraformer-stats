@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/terraformer-stats/precache-manifest.33fb73548db5617b65d1760a45d8559c.js"
+  "/terraformer-stats/precache-manifest.a0a56dff5ea7813cb768a442581e1114.js"
 );
 
 self.addEventListener('message', (event) => {

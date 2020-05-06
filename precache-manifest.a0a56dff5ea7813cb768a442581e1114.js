@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2ba667dbecbcc1fce9afcef93a876b3a",
+    "revision": "2cf6df7bc0536b500449805db311afd5",
     "url": "/terraformer-stats/index.html"
   },
   {
-    "revision": "d4547e84b49afa0f16d5",
+    "revision": "a797eabe0d2fa30fefb2",
     "url": "/terraformer-stats/static/css/main.a44733c1.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/terraformer-stats/static/js/2.ba8d94b0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d4547e84b49afa0f16d5",
-    "url": "/terraformer-stats/static/js/main.34cb8aab.chunk.js"
+    "revision": "a797eabe0d2fa30fefb2",
+    "url": "/terraformer-stats/static/js/main.1e874f26.chunk.js"
   },
   {
     "revision": "89c6c5bc4151581d419a",
